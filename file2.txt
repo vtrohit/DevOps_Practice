@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 working on another file
+=======
+this is a sample file
+>>>>>>> 44be1bc (added file2.txt to sample branch)
